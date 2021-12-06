@@ -1,0 +1,60 @@
+        <?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
+         xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" 
+         xmlns:foaf="http://xmlns.com/foaf/0.1/">
+
+    <rdf:Description rdf:about="https://www.zalora.co.id/">
+        <foaf:know rdf:resource="https://www.zalora.co.id/nike-nike-court-legacy-white-2867774.html" />
+        <foaf:know rdf:resource="https://www.zalora.co.id/hush-puppies-connor-steve-green-3161581.html" />
+        <foaf:know rdf:resource="https://www.zalora.co.id/puma-suede-gum-trainers-brown-2992828.html" />
+        <foaf:know rdf:resource="https://www.zalora.co.id/converse-chuck-taylor-all-star-canvas-ox-white-2040549.html" />
+    </rdf:Description>
+	
+		<rdf:Description
+        rdf:about = "https://www.zalora.co.id/nike-nike-court-legacy-white-2867774.html">
+            <dbp:name> Nike Court Legacy </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/FDXnUF1IjVEwSJ76ne9CdaGOG4Y=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/nike-1912-4777682-1.jpg </dc:img>
+            <ns1:hasMerk> Nike </ns1:hasMerk>
+            <ns1:hasSize> 9 </ns1:hasSize>
+            <dc:description> Sneakers bergaya timeless classic dengan statementable swoosh, Kombinasi warna beige dan hijau, Leather upper, Foam insole dengan desain lightweight dan responsive feel, Rubber outsole, Tali depan, Round toe </dc:description>
+            <ns1:hasColor> Gren Noise </ns1:hasColor>
+            <dc:price> IDR 759.050 </dc:price>
+            <dc:review> 4.8 </dc:review>
+        </rdf:Description> 
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/hush-puppies-connor-steve-green-3161581.html">
+            <dbp:name> Conner Steve </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/e6vxjGdLXZ0f7bd5EYZlgmFCSEE=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/hush-puppies-8716-1851613-1.jpg </dc:img>
+            <ns1:hasMerk> Hush Puppies </ns1:hasMerk>
+            <ns1:hasSize> 42 </ns1:hasSize>
+            <dc:description>  Laceless sneakers untuk tampilan kasual dengan kesan modern, Warna hijau muda, Upper kanvas, Insole tekstil, Rubber outsole, Round toe </dc:description>
+            <ns1:hasColor> Green </ns1:hasColor>
+            <dc:price> IDR 799.200 </dc:price>
+            <dc:review> 4.0 </dc:review>
+        </rdf:Description> 
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/puma-suede-gum-trainers-brown-2992828.html">
+            <dbp:name> Suede Gum Trainers </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/DYFUEll3wUMhbrAWX4uR52SRcMw=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/puma-5809-8282992-1.jpg </dc:img>
+            <ns1:hasMerk> Puma </ns1:hasMerk>
+            <ns1:hasSize> 9 </ns1:hasSize>
+            <dc:description> Best for lifestyle, Brand logo suede casual sneakers, Suede upper, Textile insol, Rubber outsole, Round toe, Lace fastening </dc:description>
+            <ns1:hasColor> Pebble/Gum </ns1:hasColor>
+            <dc:price> IDR 974.250 </dc:price>
+            <dc:review> 5.0 </dc:review>
+        </rdf:Description> 
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/converse-chuck-taylor-all-star-canvas-ox-white-2040549.html">
+            <dbp:name> Chuck Taylor All Stars Canvas  </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/q3OIysQUb6dh0tHvh6rbu9ftpkI=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/converse-9987-9450402-1.jpg </dc:img>
+            <ns1:hasMerk> Converse </ns1:hasMerk>
+            <ns1:hasSize> 38 </ns1:hasSize>
+            <dc:description> Lifestyle sneakers monokrom dengan desain klasik yang timeless, Warna putih, Upper kanvas, Insole tekstil, Rubber outsole, Tali depan, Round toe</dc:description>
+            <ns1:hasColor> White </ns1:hasColor>
+            <dc:price> IDR 531.300 </dc:price>
+            <dc:review> 4.9 </dc:review>
+        </rdf:Description> 
+		</rdf:RDF>
