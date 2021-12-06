@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding = "UTF-8"?>
+
 <rdf:RDF
     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
     xmlns:ns1="http://www.w3.org/2001/vcard-rdf/3.0#"
@@ -150,3 +150,4 @@
             <dc:price> IDR 531.300 </dc:price>
             <dc:review> 4.9 </dc:review>
         </rdf:Description> 
+		</rdf:RDF>
