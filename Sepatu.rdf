@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding = "UTF-8"?>
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:ns1="http://www.w3.org/2001/vcard-rdf/3.0#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:dbp="http://dbpedia.org/property/">
+
+        <rdf:Description
+        rdf:about = "http://www.adidas.co.id/sepatu-sport-adidas-x-lego-reg-422462.html">
+            <dbp:name> Sepatu Sport adidas x lego </dbp:name>
+            <dc:img> https://www.adidas.co.id/media/catalog/product/f/z/fz5444_sl_ecom.jpg </dc:img>
+            <ns1:hasMerk> Adidas </ns1:hasMerk>
+            <ns1:hasSize> 3 Tahun </ns1:hasSize>
+            <dc:description> tidak ada risiko kehilangan blok LEGO® mereka dengan sepatu adidas untuk bayi ini, karena mereka selalu memakai sepatu ini. Sepatu warna-warni ini memiliki upper berbahan tekstil yang tahan lama dengan strap model rekat yang pas serta nyaman untuk dipakai dan dilepas. Mereka selalu memiliki waktu bermain. Produk ini dibuat dengan Primeblue, material hasil daur ulang beperforma tinggi yang dibuat dengan Parley Ocean Plastic. 50% dari upper dibuat dari bahan tekstil, 75% dari bahan tekstilnya dibuat dari benang tenun Primeblue. Tanpa virgin poliester</dc:description>
+            <ns1:hasColor> Black and Green </ns1:hasColor>
+            <dc:price> IDR 775.000 </dc:price>
+            <dc:review> 4.8 </dc:review>
+        </rdf:Description>
+
+        <rdf:Description
+        rdf:about = "https://www.nike.com/id/t/air-force-1-older-shoes-w6PsF3/CT3839-104">
+            <dbp:name> Nike Air Force 1 </dbp:name>
+            <dc:img>https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,b_rgb:f5f5f5/1066d544-6b3c-4508-8287-cbacc9e04e32/air-force-1-older-shoes-w6PsF3.png</dc:img>
+            <ns1:hasMerk> Nike </ns1:hasMerk>
+            <ns1:hasSize> 35.5 </ns1:hasSize>
+            <dc:description> Kick it in comfort in the Nike Air Force 1.The feel of classic leather and details that made this shoe an icon are sure to make your sneaker style stand out on the street </dc:description>
+            <ns1:hasColor> White </ns1:hasColor>
+            <dc:price> IDR 999.000 </dc:price>
+            <dc:review> 4.5 </dc:review>
+        </rdf:Description>
+
+        <rdf:Description
+        rdf:about = "https://www.converse.id/chuck-taylor-all-star-dino-daze.html">
+            <dbp:name> Chuck Taylor allstar Dino Daze </dbp:name>
+            <dc:img> https://www.converse.id/chuck-taylor-all-star-dino-daze.html#</dc:img>
+            <ns1:hasMerk> Converse </ns1:hasMerk>
+            <ns1:hasSize> 16 cm </ns1:hasSize>
+            <dc:description> Jika si kecil menyukai dinosaurus, mereka akan menyukai Chucks yang dicetak ini. Dirancang untuk kenyamanan bermain sepanjang hari, mereka memiliki bantalan SmartFOAM yang mendukung dan lapisan mesh daur ulang yang dapat bernapas. Cetakan dino menyeluruh memamerkan gaya anak Anda. </dc:description>
+            <ns1:hasColor> colorfull </ns1:hasColor>
+            <dc:price> IDR 447.200 </dc:price>
+            <dc:review> 4 </dc:review>
+        </rdf:Description>
+
+        <rdf:Description
+        rdf:about = "https://www.mothercare.co.id/puma-courtflex-v2-v-infant-peacoat-high-risk-red-046100120-37154401.html?utm_source=&utm_medium=&utm_campaign=&utm_term=&utm_content=&gclid=CjwKCAiAwKyNBhBfEiwA_mrUMiPr-a3t9nxtzjKdy87PqIEH9TjtxorlVll_apuvJGcCH0-1mAmm0RoCAnkQAvD_BwE">
+            <dbp:name> Puma Courtflex V2 V Infant Peacoat high Risk Red </dbp:name>
+            <dc:img> https://www.mothercare.co.id/media/catalog/product/cache/d990c2c72c542f076451564d319525a4/l/3/l37154401in_1_wid_1200_hei_1200.jpg </dc:img>
+            <ns1:hasMerk> Puma </ns1:hasMerk>
+            <ns1:hasSize> 35.5 </ns1:hasSize>
+            <dc:description> the children's puma courtflex v2 v inf outdoor sneakers provide kids with comfort for everyday wear. they are made of high quality materials, so their long life is guaranteed. the inner insole is made of special softfoam + foam, which ensures maximum support and added comfort during walking. the shoe is suitable for everyday use. </dc:description>
+            <ns1:hasColor> Dark Blue dan White </ns1:hasColor>
+            <dc:price> IDR 399.000 </dc:price>
+            <dc:review> 4.5 </dc:review>
+        </rdf:Description>
+//cewek//
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/clarks-clarks-eliza-mae-black-textile-black-black-2976313.html">
+            <dbp:name> Clarks Eliza Mae Black Textile </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/w0pMZQkL8-tqz1qmgC1flv3rNko=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/clarks-4932-3136792-1.jpg </dc:img>
+            <ns1:hasMerk> Clarks </ns1:hasMerk>
+            <ns1:hasSize> 36.5 </ns1:hasSize>
+            <dc:description> Classic slide silhouette featuring Clarks Cushion Soft™ technology with EVA molded OrthoLite® footbed ensures flexible support with every step. Slip-on design with strappy vamp detail is perfect for dressing up or down.Open back with hook-and-loop closure for a perfect fit.Buttery soft textile upper and man-made lining for all day comfort.Composition rubber outsole. </dc:description>
+            <ns1:hasColor> Black </ns1:hasColor>
+            <dc:price> IDR 592.361 </dc:price>
+            <dc:review> 5.0 </dc:review>
+        </rdf:Description>  
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/keds-triple-up-solids-white-2846031.html">
+            <dbp:name> Triple Up Solids </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/xG7uv5Rm8tftEgB18zipHtO0oa8=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/keds-6169-1306482-1.jpg </dc:img>
+            <ns1:hasMerk> Keds </ns1:hasMerk>
+            <ns1:hasSize> 38 </ns1:hasSize>
+            <dc:description>  Platform sneakers monokrom untuk tampilan sporty yang feminin, Warna putih, Upper kanvas, Insole tekstil, Rubber outsole, Tali depan, Round toe </dc:description>
+            <ns1:hasColor> White </ns1:hasColor>
+            <dc:price> IDR 824.250 </dc:price>
+            <dc:review> 5.0 </dc:review>
+        </rdf:Description> 
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/hush-puppies-josie-jordyn-grey-3089155.html">
+            <dbp:name> Josie Jordyn </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/UdQWPkZXHBAm3J1R_opZKi4F9bQ=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/hush-puppies-4081-5519803-1.jpg </dc:img>
+            <ns1:hasMerk> Hush Puppies </ns1:hasMerk>
+            <ns1:hasSize> 36 </ns1:hasSize>
+            <dc:description>  Sneakers desain klasik timeless untuk versatile look, Warna abu-abu, Upper kanvas, Insole kanvas, Rubber outsole, Tali depan, Round toe </dc:description>
+            <ns1:hasColor> Grey </ns1:hasColor>
+            <dc:price> IDR 449.500 </dc:price>
+            <dc:review> 5.0 </dc:review>
+        </rdf:Description> 
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/vans-era-beige-3130870.html">
+            <dbp:name> Era </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/hrXV2SrX7W0_2UKcl8WPc4aCPB0=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/vans-2540-0780313-1.jpg</dc:img>
+            <ns1:hasMerk> Vans </ns1:hasMerk>
+            <ns1:hasSize> 39 </ns1:hasSize>
+            <dc:description>  Sneakers bernuansa nude tone dengan detail bear print yang playful, Warna beige, Upper kanvas, Insole tekstil, Rubber outsole, Tali depan, Round toe, Produk unisex </dc:description>
+            <ns1:hasColor> Marshmellow </ns1:hasColor>
+            <dc:price> IDR 849.000 </dc:price>
+            <dc:review> 5.0 </dc:review>
+        </rdf:Description> 
+
+//cowok//
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/nike-nike-court-legacy-white-2867774.html">
+            <dbp:name> Nike Court Legacy </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/FDXnUF1IjVEwSJ76ne9CdaGOG4Y=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/nike-1912-4777682-1.jpg </dc:img>
+            <ns1:hasMerk> Nike </ns1:hasMerk>
+            <ns1:hasSize> 9 </ns1:hasSize>
+            <dc:description> Sneakers bergaya timeless classic dengan statementable swoosh, Kombinasi warna beige dan hijau, Leather upper, Foam insole dengan desain lightweight dan responsive feel, Rubber outsole, Tali depan, Round toe </dc:description>
+            <ns1:hasColor> Gren Noise </ns1:hasColor>
+            <dc:price> IDR 759.050 </dc:price>
+            <dc:review> 4.8 </dc:review>
+        </rdf:Description> 
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/hush-puppies-connor-steve-green-3161581.html">
+            <dbp:name> Conner Steve </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/e6vxjGdLXZ0f7bd5EYZlgmFCSEE=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/hush-puppies-8716-1851613-1.jpg </dc:img>
+            <ns1:hasMerk> Hush Puppies </ns1:hasMerk>
+            <ns1:hasSize> 42 </ns1:hasSize>
+            <dc:description>  Laceless sneakers untuk tampilan kasual dengan kesan modern, Warna hijau muda, Upper kanvas, Insole tekstil, Rubber outsole, Round toe </dc:description>
+            <ns1:hasColor> Green </ns1:hasColor>
+            <dc:price> IDR 799.200 </dc:price>
+            <dc:review> 4.0 </dc:review>
+        </rdf:Description> 
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/puma-suede-gum-trainers-brown-2992828.html">
+            <dbp:name> Suede Gum Trainers </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/DYFUEll3wUMhbrAWX4uR52SRcMw=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/puma-5809-8282992-1.jpg </dc:img>
+            <ns1:hasMerk> Puma </ns1:hasMerk>
+            <ns1:hasSize> 9 </ns1:hasSize>
+            <dc:description> Best for lifestyle, Brand logo suede casual sneakers, Suede upper, Textile insol, Rubber outsole, Round toe, Lace fastening </dc:description>
+            <ns1:hasColor> Pebble/Gum </ns1:hasColor>
+            <dc:price> IDR 974.250 </dc:price>
+            <dc:review> 5.0 </dc:review>
+        </rdf:Description> 
+
+        <rdf:Description
+        rdf:about = "https://www.zalora.co.id/converse-chuck-taylor-all-star-canvas-ox-white-2040549.html">
+            <dbp:name> Chuck Taylor All Stars Canvas  </dbp:name>
+            <dc:img> https://dynamic.zacdn.com/q3OIysQUb6dh0tHvh6rbu9ftpkI=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/converse-9987-9450402-1.jpg </dc:img>
+            <ns1:hasMerk> Converse </ns1:hasMerk>
+            <ns1:hasSize> 38 </ns1:hasSize>
+            <dc:description> Lifestyle sneakers monokrom dengan desain klasik yang timeless, Warna putih, Upper kanvas, Insole tekstil, Rubber outsole, Tali depan, Round toe</dc:description>
+            <ns1:hasColor> White </ns1:hasColor>
+            <dc:price> IDR 531.300 </dc:price>
+            <dc:review> 4.9 </dc:review>
+        </rdf:Description> 
