@@ -2,12 +2,14 @@
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
          xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" 
          xmlns:foaf="http://xmlns.com/foaf/0.1/">
+		 xmlns:dbp="http://dbpedia.org/property/">
+	     xmlns:ns1="http://www.w3.org/2001/vcard-rdf/3.0#"
 
     <rdf:Description rdf:about="https://www.zalora.co.id/">
-        <foaf:know rdf:resource="https://www.zalora.co.id/nike-nike-court-legacy-white-2867774.html" />
-        <foaf:know rdf:resource="https://www.zalora.co.id/hush-puppies-connor-steve-green-3161581.html" />
-        <foaf:know rdf:resource="https://www.zalora.co.id/puma-suede-gum-trainers-brown-2992828.html" />
-        <foaf:know rdf:resource="https://www.zalora.co.id/converse-chuck-taylor-all-star-canvas-ox-white-2040549.html" />
+        <dbp:know rdf:resource="https://www.zalora.co.id/nike-nike-court-legacy-white-2867774.html" />
+        <dbp:know rdf:resource="https://www.zalora.co.id/hush-puppies-connor-steve-green-3161581.html" />
+        <dbp:know rdf:resource="https://www.zalora.co.id/puma-suede-gum-trainers-brown-2992828.html" />
+        <dbp:know rdf:resource="https://www.zalora.co.id/converse-chuck-taylor-all-star-canvas-ox-white-2040549.html" />
     </rdf:Description>
 	
 		<rdf:Description
