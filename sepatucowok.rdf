@@ -19,8 +19,8 @@
             <dc:hasSize> 9 </dc:hasSize>
             <dc:ket> Sneakers bergaya timeless classic dengan statementable swoosh, Kombinasi warna beige dan hijau, Leather upper, Foam insole dengan desain lightweight dan responsive feel, Rubber outsole, Tali depan, Round toe </dc:ket>
             <dc:hasColor> Gren Noise </dc:hasColor>
-            <dc:price> IDR 759.050 </dc:price>
-            <dc:review> 4.8 </dc:review>
+            <dc:price> IDR 759050 </dc:price>
+            <dc:review> 48 </dc:review>
 	    <dc:identifier> sepatu1.php </dc:identifier>
         </rdf:Description> 
 
@@ -32,8 +32,8 @@
             <dc:hasSize> 42 </dc:hasSize>
             <dc:ket>  Laceless sneakers untuk tampilan kasual dengan kesan modern, Warna hijau muda, Upper kanvas, Insole tekstil, Rubber outsole, Round toe </dc:ket>
             <dc:hasColor> Green </dc:hasColor>
-            <dc:price> IDR 799.200 </dc:price>
-            <dc:review> 4.0 </dc:review>
+            <dc:price> IDR 799200 </dc:price>
+            <dc:review> 40 </dc:review>
 	    <dc:identifier> sepatu2.php </dc:identifier>
         </rdf:Description> 
 
@@ -45,8 +45,8 @@
             <dc:hasSize> 9 </dc:hasSize>
             <dc:ket> Best for lifestyle, Brand logo suede casual sneakers, Suede upper, Textile insol, Rubber outsole, Round toe, Lace fastening </dc:ket>
             <dc:hasColor> Pebble/Gum </dc:hasColor>
-            <dc:price> IDR 974.250 </dc:price>
-            <dc:review> 5.0 </dc:review>
+            <dc:price> IDR 974250 </dc:price>
+            <dc:review> 50 </dc:review>
 	    <dc:identifier> sepatu3.php </dc:identifier>
         </rdf:Description> 
 
@@ -58,8 +58,8 @@
             <dc:hasSize> 38 </dc:hasSize>
             <dc:ket> Lifestyle sneakers monokrom dengan desain klasik yang timeless, Warna putih, Upper kanvas, Insole tekstil, Rubber outsole, Tali depan, Round toe</dc:ket>
             <dc:hasColor> White </dc:hasColor>
-            <dc:price> IDR 531.300 </dc:price>
-            <dc:review> 4.9 </dc:review>
+            <dc:price> IDR 531300 </dc:price>
+            <dc:review> 49 </dc:review>
 	    <dc:identifier> sepatu4.php </dc:identifier>
         </rdf:Description> 
 		</rdf:RDF>
