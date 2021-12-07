@@ -21,6 +21,7 @@
             <dc:hasColor> Gren Noise </dc:hasColor>
             <dc:price> IDR 759.050 </dc:price>
             <dc:review> 4.8 </dc:review>
+	    <dc:identifier> sepatu1.php </dc:identifier>
         </rdf:Description> 
 
         <rdf:Description
@@ -33,6 +34,7 @@
             <dc:hasColor> Green </dc:hasColor>
             <dc:price> IDR 799.200 </dc:price>
             <dc:review> 4.0 </dc:review>
+	    <dc:identifier> sepatu2.php </dc:identifier>
         </rdf:Description> 
 
         <rdf:Description
@@ -45,6 +47,7 @@
             <dc:hasColor> Pebble/Gum </dc:hasColor>
             <dc:price> IDR 974.250 </dc:price>
             <dc:review> 5.0 </dc:review>
+	    <dc:identifier> sepatu3.php </dc:identifier>
         </rdf:Description> 
 
         <rdf:Description
@@ -57,5 +60,6 @@
             <dc:hasColor> White </dc:hasColor>
             <dc:price> IDR 531.300 </dc:price>
             <dc:review> 4.9 </dc:review>
+	    <dc:identifier> sepatu4.php </dc:identifier>
         </rdf:Description> 
 		</rdf:RDF>
