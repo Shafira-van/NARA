@@ -11,7 +11,7 @@
 
 <rdf:Description
         rdf:about = "https://www.zalora.co.id/clarks-clarks-eliza-mae-black-textile-black-black-2976313.html">
-            <dc:products> Clarks Eliza Mae Black Textile </dc:products>
+            <dc:product> Clarks Eliza Mae Black Textile </dc:product>
             <dc:img> https://dynamic.zacdn.com/w0pMZQkL8-tqz1qmgC1flv3rNko=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/clarks-4932-3136792-1.jpg </dc:img>
             <dc:hasMerk> Clarks </dc:hasMerk>
             <dc:hasSize> 36.5 </dc:hasSize>
@@ -24,7 +24,7 @@
 
         <rdf:Description
         rdf:about = "https://www.zalora.co.id/keds-triple-up-solids-white-2846031.html">
-            <dc:products> Triple Up Solids </dc:products>
+            <dc:product> Triple Up Solids </dc:product>
             <dc:img> https://dynamic.zacdn.com/xG7uv5Rm8tftEgB18zipHtO0oa8=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/keds-6169-1306482-1.jpg </dc:img>
             <dc:hasMerk> Keds </dc:hasMerk>
             <dc:hasSize> 38 </dc:hasSize>
@@ -37,7 +37,7 @@
 
         <rdf:Description
         rdf:about = "https://www.zalora.co.id/hush-puppies-josie-jordyn-grey-3089155.html">
-            <dc:products> Josie Jordyn </dc:products>
+            <dc:product> Josie Jordyn </dc:product>
             <dc:img> https://dynamic.zacdn.com/UdQWPkZXHBAm3J1R_opZKi4F9bQ=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/hush-puppies-4081-5519803-1.jpg </dc:img>
             <dc:hasMerk> Hush Puppies </dc:hasMerk>
             <dc:hasSize> 36 </dc:hasSize>
@@ -50,7 +50,7 @@
 
         <rdf:Description
         rdf:about = "https://www.zalora.co.id/vans-era-beige-3130870.html">
-            <dc:products> Era </dc:products>
+            <dc:product> Era </dc:product>
             <dc:img> https://dynamic.zacdn.com/hrXV2SrX7W0_2UKcl8WPc4aCPB0=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/vans-2540-0780313-1.jpg</dc:img>
             <dc:hasMerk> Vans </dc:hasMerk>
             <dc:hasSize> 39 </dc:hasSize>
