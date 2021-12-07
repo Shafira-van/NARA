@@ -11,7 +11,7 @@
 	
 		<rdf:Description
         rdf:about = "https://www.zalora.co.id/nike-nike-court-legacy-white-2867774.html">
-            <foaf:name> Nike Court Legacy </foaf:name>
+            <dc:product> Nike Court Legacy </dc:product>
             <dc:img> https://dynamic.zacdn.com/FDXnUF1IjVEwSJ76ne9CdaGOG4Y=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/nike-1912-4777682-1.jpg </dc:img>
             <dc:hasMerk> Nike </dc:hasMerk>
             <dc:hasSize> 9 </dc:hasSize>
@@ -24,7 +24,7 @@
 
         <rdf:Description
         rdf:about = "https://www.zalora.co.id/hush-puppies-connor-steve-green-3161581.html">
-            <foaf:name> Conner Steve </foaf:name>
+            <dc:product> Conner Steve </dc:product>
             <dc:img> https://dynamic.zacdn.com/e6vxjGdLXZ0f7bd5EYZlgmFCSEE=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/hush-puppies-8716-1851613-1.jpg </dc:img>
             <dc:hasMerk> Hush Puppies </dc:hasMerk>
             <dc:hasSize> 42 </dc:hasSize>
@@ -37,7 +37,7 @@
 
         <rdf:Description
         rdf:about = "https://www.zalora.co.id/puma-suede-gum-trainers-brown-2992828.html">
-            <foaf:name> Suede Gum Trainers </foaf:name>
+            <dc:product> Suede Gum Trainers </dc:product>
             <dc:img> https://dynamic.zacdn.com/DYFUEll3wUMhbrAWX4uR52SRcMw=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/puma-5809-8282992-1.jpg </dc:img>
             <dc:hasMerk> Puma </dc:hasMerk>
             <dc:hasSize> 9 </dc:hasSize>
@@ -50,7 +50,7 @@
 
         <rdf:Description
         rdf:about = "https://www.zalora.co.id/converse-chuck-taylor-all-star-canvas-ox-white-2040549.html">
-            <foaf:name> Chuck Taylor All Stars Canvas  </foaf:name>
+            <dc:product> Chuck Taylor All Stars Canvas  </dc:product>
             <dc:img> https://dynamic.zacdn.com/q3OIysQUb6dh0tHvh6rbu9ftpkI=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/converse-9987-9450402-1.jpg </dc:img>
             <dc:hasMerk> Converse </dc:hasMerk>
             <dc:hasSize> 38 </dc:hasSize>
