@@ -1,9 +1,7 @@
-
 <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" 
          xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" 
          xmlns:foaf="http://xmlns.com/foaf/0.1/#"
 		 xmlns:dc="http://purl.org/dc/elements/1.1/"> 
-
     <rdf:Description rdf:about="https://www.zalora.co.id/">
         <dc:know rdf:resource="https://www.zalora.co.id/nike-nike-court-legacy-white-2867774.html" />
         <dc:know rdf:resource="https://www.zalora.co.id/hush-puppies-connor-steve-green-3161581.html" />
@@ -13,53 +11,53 @@
 	
 		<rdf:Description
         rdf:about = "https://www.zalora.co.id/nike-nike-court-legacy-white-2867774.html">
-            <dc:name> Nike Court Legacy </dc:name>
+            <foaf:name> Nike Court Legacy </foaf:name>
             <dc:img> https://dynamic.zacdn.com/FDXnUF1IjVEwSJ76ne9CdaGOG4Y=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/nike-1912-4777682-1.jpg </dc:img>
             <dc:hasMerk> Nike </dc:hasMerk>
             <dc:hasSize> 9 </dc:hasSize>
             <dc:ket> Sneakers bergaya timeless classic dengan statementable swoosh, Kombinasi warna beige dan hijau, Leather upper, Foam insole dengan desain lightweight dan responsive feel, Rubber outsole, Tali depan, Round toe </dc:ket>
             <dc:hasColor> Gren Noise </dc:hasColor>
-            <dc:price> IDR 759050 </dc:price>
-            <dc:review> 48 </dc:review>
+            <dc:price> IDR 759.050 </dc:price>
+            <dc:review> 4.8 </dc:review>
 	    <dc:identifier> sepatu1.php </dc:identifier>
         </rdf:Description> 
 
         <rdf:Description
         rdf:about = "https://www.zalora.co.id/hush-puppies-connor-steve-green-3161581.html">
-            <dc:name> Conner Steve </dc:name>
+            <foaf:name> Conner Steve </foaf:name>
             <dc:img> https://dynamic.zacdn.com/e6vxjGdLXZ0f7bd5EYZlgmFCSEE=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/hush-puppies-8716-1851613-1.jpg </dc:img>
             <dc:hasMerk> Hush Puppies </dc:hasMerk>
             <dc:hasSize> 42 </dc:hasSize>
             <dc:ket>  Laceless sneakers untuk tampilan kasual dengan kesan modern, Warna hijau muda, Upper kanvas, Insole tekstil, Rubber outsole, Round toe </dc:ket>
             <dc:hasColor> Green </dc:hasColor>
-            <dc:price> IDR 799200 </dc:price>
-            <dc:review> 40 </dc:review>
+            <dc:price> IDR 799.200 </dc:price>
+            <dc:review> 4.0 </dc:review>
 	    <dc:identifier> sepatu2.php </dc:identifier>
         </rdf:Description> 
 
         <rdf:Description
         rdf:about = "https://www.zalora.co.id/puma-suede-gum-trainers-brown-2992828.html">
-            <dc:name> Suede Gum Trainers <.dc:name>
+            <foaf:name> Suede Gum Trainers </foaf:name>
             <dc:img> https://dynamic.zacdn.com/DYFUEll3wUMhbrAWX4uR52SRcMw=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/puma-5809-8282992-1.jpg </dc:img>
             <dc:hasMerk> Puma </dc:hasMerk>
             <dc:hasSize> 9 </dc:hasSize>
             <dc:ket> Best for lifestyle, Brand logo suede casual sneakers, Suede upper, Textile insol, Rubber outsole, Round toe, Lace fastening </dc:ket>
             <dc:hasColor> Pebble/Gum </dc:hasColor>
-            <dc:price> IDR 974250 </dc:price>
-            <dc:review> 50 </dc:review>
+            <dc:price> IDR 974.250 </dc:price>
+            <dc:review> 5.0 </dc:review>
 	    <dc:identifier> sepatu3.php </dc:identifier>
         </rdf:Description> 
 
         <rdf:Description
         rdf:about = "https://www.zalora.co.id/converse-chuck-taylor-all-star-canvas-ox-white-2040549.html">
-            <dc:name> Chuck Taylor All Stars Canvas  </dc:name>
+            <foaf:name> Chuck Taylor All Stars Canvas  </foaf:name>
             <dc:img> https://dynamic.zacdn.com/q3OIysQUb6dh0tHvh6rbu9ftpkI=/fit-in/762x1100/filters:quality(90):fill(ffffff)/https://static-id.zacdn.com/p/converse-9987-9450402-1.jpg </dc:img>
             <dc:hasMerk> Converse </dc:hasMerk>
             <dc:hasSize> 38 </dc:hasSize>
             <dc:ket> Lifestyle sneakers monokrom dengan desain klasik yang timeless, Warna putih, Upper kanvas, Insole tekstil, Rubber outsole, Tali depan, Round toe</dc:ket>
             <dc:hasColor> White </dc:hasColor>
-            <dc:price> IDR 531300 </dc:price>
-            <dc:review> 49 </dc:review>
+            <dc:price> IDR 531.300 </dc:price>
+            <dc:review> 4.9 </dc:review>
 	    <dc:identifier> sepatu4.php </dc:identifier>
         </rdf:Description> 
 		</rdf:RDF>
