@@ -19,7 +19,7 @@
             <dc:hasColor> Black </dc:hasColor>
             <dc:price> IDR 592.361 </dc:price>
             <dc:review> 5.0 </dc:review>
-	    <dc:identifier> sepatu1.php </dc:identifier>
+	    <dc:identifier> sepatu5.php </dc:identifier>
         </rdf:Description>  
 
         <rdf:Description
@@ -32,7 +32,7 @@
             <dc:hasColor> White </dc:hasColor>
             <dc:price> IDR 824.250 </dc:price>
             <dc:review> 5.0 </dc:review>
-	    <dc:identifier> sepatu2.php </dc:identifier>
+	    <dc:identifier> sepatu6.php </dc:identifier>
         </rdf:Description> 
 
         <rdf:Description
@@ -45,7 +45,7 @@
             <dc:hasColor> Grey </dc:hasColor>
             <dc:price> IDR 449.500 </dc:price>
             <dc:review> 5.0 </dc:review>
-	    <dc:identifier> sepatu3.php </dc:identifier>
+	    <dc:identifier> sepatu7.php </dc:identifier>
         </rdf:Description> 
 
         <rdf:Description
@@ -58,5 +58,5 @@
             <dc:hasColor> Marshmellow </dc:hasColor>
             <dc:price> IDR 849.000 </dc:price>
             <dc:review> 5.0 </dc:review>
-	    <dc:identifier> sepatu4.php </dc:identifier>
+	    <dc:identifier> sepatu8.php </dc:identifier>
         </rdf:Description> 
